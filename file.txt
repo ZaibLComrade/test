@@ -1,1 +1,2 @@
 Hello World
+This is the content of new file
